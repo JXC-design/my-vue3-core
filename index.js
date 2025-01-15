@@ -20,7 +20,8 @@ const isPrime = (num) => {
 
 const defaultConfig = {
     name: "CHEN",
-    date: "2025-01-15"
+    date: "2025-01-15",
+    age: 20
 }
 
 export {
