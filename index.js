@@ -18,9 +18,15 @@ const isPrime = (num) => {
     return true
 }
 
+const defaultConfig = {
+    name: "CHEN",
+    date: "2025-01-15"
+}
+
 export {
     addNum,
     reverseString,
     isPalindrome,
-    isPrime
+    isPrime,
+    defaultConfig
 }
