@@ -22,7 +22,8 @@ const defaultConfig = {
     name: "CHEN",
     date: "2025-01-15",
     age: 20,
-    gender: "male"
+    gender: "male",
+    email: "chen@gmail.com",
 }
 
 export {
